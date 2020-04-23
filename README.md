@@ -49,7 +49,7 @@ Just make sure that your server is still running on the port number 4000.
   * Fetch restaurants with:
     * URL: http://localhost:4000/api/restaurants
     * Method: GET
-    <img src="https://raw.githubusercontent.com/aliakbar-k8811/vymo-machine-test/master/src/public/screenshots/postman1.png?token=APJWKDD7VV6ID5SDUVWU2D26UFKZU" alt="Postman screenshot1" />
+    <img src="https://raw.githubusercontent.com/aliakbar-k8811/vymo-machine-test/master/src/public/screenshots/postman1.png?token=APJWKDHBU65W6LAE2MMA76C6UFLWM" alt="Postman screenshot1" />
   * Register a restaurant with:
     * URL: http://localhost:4000/api/restaurants
     * Method: POST
