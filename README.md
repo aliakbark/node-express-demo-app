@@ -50,7 +50,7 @@ Just make sure that your server is still running on the port number 4000.
     * URL: http://localhost:4000/api/restaurants
     * Method: GET
     
-    <img src="https://raw.githubusercontent.com/aliakbar-k8811/vymo-machine-test/master/src/public/screenshots/postman1.png?token=APJWKDHBU65W6LAE2MMA76C6UFLWM" alt="Postman screenshot1" />
+    <img src="https://github.com/aliakbar-k8811/vymo-machine-test/blob/master/src/public/screenshots/postman1.png?raw=true" alt="Postman screenshot1" />
     
   * Register a restaurant with:
     * URL: http://localhost:4000/api/restaurants
@@ -66,14 +66,14 @@ Just make sure that your server is still running on the port number 4000.
             "avg_daily_trans":"12000"
           }`
           
-    <img src="https://raw.githubusercontent.com/aliakbar-k8811/vymo-machine-test/master/src/public/screenshots/postman2.png?token=APJWKDBZSGCU7JML4OPOPR26UFL6S" alt="Postman screenshot2" />
+    <img src="https://github.com/aliakbar-k8811/vymo-machine-test/blob/master/src/public/screenshots/postman2.png?raw=true" alt="Postman screenshot2" />
     
 
 #### Web
   * run (http://localhost:4000/): It will show restaurants list.
     * By clicking on 'JOIN', user can register Restaurant with name, contact name, phone, location, etc and submit.
     
-    <img src="https://raw.githubusercontent.com/aliakbar-k8811/vymo-machine-test/master/src/public/screenshots/web1.png?token=APJWKDGJPA4TQ27DM5VIB5S6UFMDU" alt="Web screenshot1" />
+    <img src="https://github.com/aliakbar-k8811/vymo-machine-test/blob/master/src/public/screenshots/web1.png?raw=true" alt="Web screenshot1" />
     
-    <img src="https://raw.githubusercontent.com/aliakbar-k8811/vymo-machine-test/master/src/public/screenshots/web2.png?token=APJWKDEDMJZKOLKIG7HXGFC6UFLRE" alt="Web screenshot2" />
+    <img src="https://github.com/aliakbar-k8811/vymo-machine-test/blob/master/src/public/screenshots/web2.png?raw=true" alt="Web screenshot2" />
     
