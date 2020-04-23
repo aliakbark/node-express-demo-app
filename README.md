@@ -49,6 +49,7 @@ Just make sure that your server is still running on the port number 4000.
   * Fetch restaurants with:
     * URL: http://localhost:4000/api/restaurants
     * Method: GET
+    <img src="https://raw.githubusercontent.com/aliakbar-k8811/vymo-machine-test/master/src/public/screenshots/postman1.png?token=APJWKDD7VV6ID5SDUVWU2D26UFKZU" alt="Postman screenshot1" />
   * Register a restaurant with:
     * URL: http://localhost:4000/api/restaurants
     * Method: POST
@@ -62,7 +63,11 @@ Just make sure that your server is still running on the port number 4000.
             "phone":"9746438811", 
             "avg_daily_trans":"12000"
           }`
+    <img src="https://raw.githubusercontent.com/aliakbar-k8811/vymo-machine-test/master/src/public/screenshots/postman2.png?token=APJWKDFZIKZOACIAPWUIBRK6UFLH2" alt="Postman screenshot2" />
 
 #### Web
   * run (http://localhost:4000/): It will show restaurants list.
     * By clicking on 'JOIN', user can register Restaurant with name, contact name, phone, location, etc and submit.
+    <img src="https://raw.githubusercontent.com/aliakbar-k8811/vymo-machine-test/master/src/public/screenshots/web1.png?token=APJWKDFYWZ56WHO4E3MHGAK6UFLN2" alt="Web screenshot1" />
+    <img src="https://raw.githubusercontent.com/aliakbar-k8811/vymo-machine-test/master/src/public/screenshots/web2.png?token=APJWKDEDMJZKOLKIG7HXGFC6UFLRE" alt="Web screenshot2" />
+    
