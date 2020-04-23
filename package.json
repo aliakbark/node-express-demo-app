@@ -1,0 +1,22 @@
+{
+  "name": "restaurantsapptest",
+  "version": "1.0.0",
+  "description": "Application for registrations of restaurant ",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Akbar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "express-flash": "0.0.2",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.9.10",
+    "nodemon": "^2.0.3"
+  }
+}
