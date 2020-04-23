@@ -34,16 +34,6 @@ app.use(middlewares);
 
 // routes
 app.use(require('./routes/restaurant.route'));
-// app.get('/test', function(req, res) {
-// 	req.flash('successMessage', 'You are successfully using req-flash');
-// 	req.flash('errorMessage', 'No errors, you\'re doing fine');
-
-// 	res.redirect('/');
-// });
-
-// app.get('/', function(req, res) {
-// 	res.send(req.flash());
-// });
 
 //Error handlers
 app.use((req, res, next) => {
