@@ -5,7 +5,7 @@ A demo Restaurant on boarding application for food delivery system with NodeJS, 
 
 The project includes web application and REST APIs. This project is built with NodeJS for backend, Express is the framework used and MongoDB is the database. For demo, Template engine [EmbeddedJS](https://ejs.co/) is used to render web and rest apis can be tested with [Postman](https://www.postman.com/).
 
-### Prerequisites
+## Prerequisites
 
 * [Node](https://nodejs.org/en/download/) - Download and install 
 * [MongoDb Server](https://www.mongodb.com/download-center/community) - Install MongoDB Community Edition ([instructions](https://docs.mongodb.com/manual/installation/#tutorials)) and run it by executing mongod.
@@ -44,7 +44,7 @@ Currently cofigured to run it on local machine.
 
 Just make sure that your server is still running on the port number 4000.
 
-### Postman
+#### Postman
   * [Postman](https://www.postman.com/) - A popular API client, can be used for testing rest api.
   * Fetch restaurants with:
     * URL: http://localhost:4000/api/restaurants
@@ -63,6 +63,6 @@ Just make sure that your server is still running on the port number 4000.
             "avg_daily_trans":"12000"
           }`
 
-### Web
+#### Web
   * run (http://localhost:4000/): It will show restaurants list.
     * By clicking on 'JOIN', user can register Restaurant with name, contact name, phone, location, etc and submit.
