@@ -1,4 +1,4 @@
-# Vymo Machine Test
+# Node-Express Demo Application
 A demo Restaurant on boarding application for food delivery system with NodeJS, Express and MongoDB.
 
 ## Getting Started
